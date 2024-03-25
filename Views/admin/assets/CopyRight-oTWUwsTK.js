@@ -1,0 +1,1 @@
+import{j as t,L as r}from"./index-1ZIe4Z95.js";const s=()=>{const e=new Date().getFullYear();return t.jsx("div",{children:t.jsxs("small",{children:["© ",e," All Rights Reserved.BMICH | Solution by ",t.jsx(r,{to:"https://visionarydv.com",target:"_blank",style:{textDecoration:"none",color:"black"},children:" VDV"})," "]})})};export{s as C};
